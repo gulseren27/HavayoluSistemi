@@ -1,0 +1,5 @@
+Durum (1:Planlandı,2:Ertelendi,3:Ayrıldı;4:Tamamlandi,5:iptal)
+1, 2021;07;12;13:15;60;Turkiye;Istanbul;Sabiha Gokcen;Turkiye;Ankara;Esenboga;Airbus A319; Pegasus; 4
+2, 2022;11;12;14:30;60;Turkiye;Istanbul;Sabiha Gokcen;Turkiye;Ankara;Esenboga;Airbus A320; Turk Hava Yolları; 1
+3, 2022;11;15;14:30;60;Turkiye;Istanbul;Sabiha Gokcen;Turkiye;Ankara;Esenboga;Airbus A319; SunExpress; 3
+4, 2022;06;15;14:30;70;Turkiye;Erzurum;Sabiha Gokcen;Turkiye;Ankara;Esenboga;Boeing 737;Anadolu Jet; 2
